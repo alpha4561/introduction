@@ -34,7 +34,7 @@
   <a href="https://jupyter.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"></a>
 
 </p>
-### Languages & Programming
+Languages & Programming
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
