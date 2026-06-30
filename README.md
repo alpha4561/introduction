@@ -2,9 +2,9 @@
 
 **Aspiring  Data-driven Researcher**
 
-
-
 ## 💫 About 
+
+** Hello, my name is Raghav Singh. I specialize in the intersection of data science and biotechnology. Currently, I am pursuing my M.Sc. in Bioinformatics and Data Analyst.  This dual background allows me to handle massive biological datasets—like genomic sequences or molecular structures—using advanced computational workflows and AI. I don't just analyze biological data; I build the machine learning models and code the pipelines that make sense of it. I’m currently looking for opportunities where I can apply these hybrid skills to drive innovation in biotech and pharmaceutical research. This dual background allows me to handle massive biological datasets—like genomic sequences or molecular structures—using advanced computational workflows and AI. I don't just analyze biological data; I build the machine learning models and code the pipelines that make sense of it. I’m currently looking for opportunities where I can apply these hybrid skills to drive innovation in biotech and pharmaceutical research.
 
 ## 🎓 Education
 
