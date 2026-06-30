@@ -35,8 +35,7 @@
 <a href="https://usegalaxy.org/" rel="nofollow">
   <img src="https://img.shields.io/badge/Galaxy-3B5998?style=for-the-badge&logo=galaxy&logoColor=white" alt="galaxy" height="28">
 </a>
-  <a href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/" rel="nofollow"><img src="https://img.shields.io/badge/FastQC-green?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDEwMCAxMDAiPjxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQwIiBmaWxsPSIjMDBiYzQwIi8+PHRleHQgeD0iNTAiIHk9IjU1IiBmb250LWZhbWlseT0iQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5GPC90ZXh0Pjx0ZXh0IHg9IjUwIiB5PSI3NSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEyIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+UXU8L3RleHQ+PC9zdmc+" width="40" height="40"></a>
-  <a href="https://multiqc.info/" rel="nofollow"><img src="https://img.shields.io/badge/MultiQC-blue?style=for-the-badge&logoColor=white" alt="multiqc" width="40" height="40"></a>
+ 
 </p>
 ### Languages & Programming
 
@@ -45,7 +44,6 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Development Environment & Version Control
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
