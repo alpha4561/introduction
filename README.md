@@ -15,7 +15,7 @@
 
 ## 🧬 Interests
 
-- Bioethics | Data-driven Solutions in Healthcare | Science Communication
+ Data-driven Solutions in Healthcare | Science Communication
 
 
 
