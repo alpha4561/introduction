@@ -72,10 +72,5 @@ Languages & Programming
 
 ## 🤝 Let's Collaborate!
 
----
 
-<p align="left">
-<a href="https://komarev.com/ghpvc/?username=RaniCodes">
-<img src="https://komarev.com/ghpvc/?username=RaniCodes&label=Profile%20views&color=0e75b6&style=flat" />
-</a>
 </p>
