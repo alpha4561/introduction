@@ -3,7 +3,7 @@
 **Aspiring  Data-driven Researcher**
 
 ## 💫 About 
-** Hello, my name is Raghav Singh. I specialize in the intersection of data science and biotechnology. Currently, I am pursuing my M.Sc. in Bioinformatics and Data Analyst.  This dual background allows me to handle massive biological datasets—like genomic sequences or molecular structures—using advanced computational workflows and AI. I don't just analyze biological data; I build the machine learning models and code the pipelines that make sense of it. I’m currently looking for opportunities where I can apply these hybrid skills to drive innovation in biotech and pharmaceutical research. This dual background allows me to handle massive biological datasets—like genomic sequences or molecular structures—using advanced computational workflows and AI. I don't just analyze biological data; I build the machine learning models and code the pipelines that make sense of it. I’m currently looking for opportunities where I can apply these hybrid skills to drive innovation in biotech and pharmaceutical research.
+** Hello, my name is Raghav Singh. I specialize in the intersection of data science and biotechnology. Currently, I am pursuing my M.Sc. in Bioinformatics and Data Analyst.  This dual background allows me to handle massive biological datasets—like genomic sequences or molecular structures—using advanced computational workflows and AI. I don't just analyze biological data; I build the machine learning models and code the pipelines that make sense of it. I’m currently looking for opportunities where I can apply these hybrid skills to drive innovation in biotech and pharmaceutical research. This dual background allows me to handle massive biological datasets-like genomic sequences or molecular structures-using advanced computational workflows and AI. I don't just analyze biological data; I build the machine learning models and code the pipelines that make sense of it. I’m currently looking for opportunities where I can apply these hybrid skills to drive innovation in biotech and pharmaceutical research.
 
 ## 🎓 Education
 
@@ -63,10 +63,6 @@ Languages & Programming
 ### Differential Expression & Analysis
 ![DESeq2](https://img.shields.io/badge/DESeq2-E91E63?style=for-the-badge&logoColor=white)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-1881C2?style=for-the-badge&logoColor=white)
-
-### Data Retrieval & Workflow Platforms
-![SRA Toolkit](https://img.shields.io/badge/SRA_Toolkit-005571?style=for-the-badge&logoColor=white)
-![Galaxy](https://img.shields.io/badge/Galaxy-3B5998?style=for-the-badge&logo=galaxy&logoColor=white)
 
 ---
 
