@@ -32,10 +32,7 @@
   <a href="https://git-scm.com/" rel="nofollow"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"></a>
   <a href="https://github.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"></a>
   <a href="https://jupyter.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"></a>
-<a href="https://usegalaxy.org/" rel="nofollow">
-  <img src="https://img.shields.io/badge/Galaxy-3B5998?style=for-the-badge&logo=galaxy&logoColor=white" alt="galaxy" height="28">
-</a>
- 
+
 </p>
 ### Languages & Programming
 
